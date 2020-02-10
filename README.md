@@ -14,6 +14,7 @@ Step 4: Create Equations which is the basis of construct along with the time Int
 Whenever we type the API key it shows an error 
 
 
+
 Step 5: Write a Script which involves a function which is capable of creating candle stick of any particular stock.
 
 Step 6: After creating the Candle sticks, we have to set the indicators which will be generating signals.
